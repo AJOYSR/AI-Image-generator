@@ -1,6 +1,8 @@
 # AI-Image-generator
 This is an image generation tool that allows users to preview the top five generated images. Users can also download the images. The tool is built using DeepSeek Janus Pro 7B, along with Vite, React, and Tailwind CSS
-![image](https://github.com/user-attachments/assets/48b44a67-ea11-463a-aff8-30f1b961923d)
+
+## Preview Images
+![image](https://github.com/user-attachments/assets/aab35db9-a098-4e75-bf35-8a68639cb19f)
 
 
 ## Features
